@@ -1,0 +1,15 @@
+# GWriters
+
+> Auf GitHub Pages stellt GWriters seine interaktive ISBN-Prüfung bereit. Der vollständige Zitiergenerator ist auf gwriters.de verfügbar.
+
+## Werkzeuge
+
+- [ISBN prüfen](https://gwriters-ghostwriting-agentur.github.io/gwriters-isbn/): Prüft die Prüfziffer einer ISBN-10 oder ISBN-13 im Browser und zeigt die normalisierte ISBN-13 an.
+- [GWriters-Zitiergenerator](https://gwriters.de/zitationsgenerator): Erstellt formatierte Quellenangaben und Literaturverzeichnisse.
+
+## Dokumentation und Quellen
+
+- [Fakten zur ISBN-Prüfung](https://gwriters-ghostwriting-agentur.github.io/ai-instructions.md): Funktionsumfang, Beispiel und Grenzen der Prüfung.
+- [GWriters ISBN auf GitHub](https://github.com/GWriters-Ghostwriting-Agentur/gwriters-isbn): JavaScript-Quellcode, Installationsanleitung, Tests und Lizenzangaben.
+- [Offizielle Fakten zum Zitiergenerator](https://gwriters.de/fakten-grounding/tool-zitier-generator-grounding): Angaben von GWriters zur Webanwendung.
+- [GWriters](https://gwriters.de/): Offizielle Website der Marke.
